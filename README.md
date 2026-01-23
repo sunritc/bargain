@@ -101,3 +101,44 @@ Example saved JSON:
   "initial_state": {}
 }
 ```
+
+---
+
+## Scenarios
+
+Each scenario has a name and consists of a product (see below) and some price rules
+
+1. seller initial price : Bargaining starts at this - seller makes first offer
+2. buyer target price : Buyer wants to settle at this
+3. buyer value : Buyer will never agree above this
+4. seller cost : Seller will never agree below this
+
+See examples in `bargain_langgraph/scenarios/examples.json` file - the outermost later of the json has the scenario name.
+
+---
+
+## Products
+
+Each product has the following details:
+
+1. name : Name of the product
+2. description : Description of the product
+3. used : How many years product has been used for? If new, this is 0
+4. condition : Condition of the product - examples: excellent / good / moderate wear and tear
+5. new_market_price : Average market price of similar new product
+6. demand : On a scale of 0-10, how much is the demand for this product
+
+See examples in the `bargain_langgraph/scenarios/examples.json` file.
+
+---
+
+## Personas
+
+Each persona has the following details:
+
+1. name : Name of the persona 
+2. personality : Overall personality
+3. background : any known background of the persona (demographics, profession, etc)
+4. emotion : persona experiencing this emotion (default is neutral)
+
+See examples in the `bargain_langgraph/profiles/personas.json` file - the outermost later of the json has the names. 

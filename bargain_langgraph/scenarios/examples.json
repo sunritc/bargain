@@ -1,7 +1,5 @@
 {
     "laptop001":  {
-        "max_rounds": 10,
-
         "seller_initial_price": 500.0,
         "buyer_target_price": 450.0,
 
@@ -18,8 +16,6 @@
         }
     },
   "laptop002":   {
-        "max_rounds": 10,
-
         "seller_initial_price": 1000.0,
         "buyer_target_price": 900.0,
 
