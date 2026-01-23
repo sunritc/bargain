@@ -1,0 +1,12 @@
+{
+  "Ravi": {
+    "personality": "Calm, analytical, polite",
+    "background": "Graduate student on a tight budget",
+    "emotion": "neutral"
+  },
+  "Leah": {
+    "personality": "Firm but friendly",
+    "background": "Software engineer selling old laptop",
+    "emotion": "neutral"
+  }
+}
