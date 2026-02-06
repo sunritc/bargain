@@ -1,37 +1,58 @@
 import json
 from .base import Agent
+from bargain_langgraph.dynamics.emotion_discount import *
 """
 Describes the seller agent and how this agent acts
 Written by: Sunrit Chakraborty
 """
+def evolve_seller_emotion_discount(state):
+    if state["seller_discount_type"] == "static":
+        seller_discount = state["seller_discount"]
+    else:
+        seller_discount = update_discount(state["seller_discount"],
+                                          state["round"],
+                                          state["max_rounds"],
+                                          state["current_buyer_offer"],
+                                          state["seller_cost"],
+                                          state["buyer_cost"])
+
+    if state["seller_emotion_type"] == "static":
+        seller_emotion = state["seller_emotion"]
+    else:
+        seller_emotion = update_emotion(seller_discount)
+
+    return seller_emotion, seller_discount
 
 class SellerAgent(Agent):
     def __init__(self, llm, prompt_template: str):
         self.llm = llm
         self.prompt = prompt_template
 
-    def act(self, state: dict) -> tuple[dict, str]:
+    def act(self, state) -> tuple[dict, tuple]:
         if state["round"] == 0:
             # First turn: initial offer
-            price = state["seller_initial_price"]
-            message = f"My first offer is ${price} for the {state['product']['name']}."
-            return {"type": "offer", "price": price},  message
+            if state["initial_offer"] is None:
+                gap = state["buyer_cost"] - state["seller_cost"]
+                price = state["buyer_cost"] - 0.05 * gap
+                # example: if v_B=150, v_S=100, gap=50, price=150-0.05*50=147.5
+            else:
+                price = state["initial_offer"]
+            name = state["seller_name"]
+            message = f"Hi, I am {name}. My first offer is ${price} for the {state['product_name']}. Are you interested?"
+            seller_choices = state["seller_emotion"], state["seller_discount"]
+            return {"action": "offer", "price": price, "message": message} , seller_choices
 
 
-        # Format prompt
-        flat_state = dict(state)
-        product = state["product"]
+        # evolve emotion and/or discount
+        seller_choices = evolve_seller_emotion_discount(state)
+        seller_emotion, seller_discount = seller_choices
 
-        flat_state.update({
-            "product_name": product["name"],
-            "product_description": product["description"],
-            "product_used": product["used"],
-            "product_condition": product["condition"],
-            "product_new_market_price": product["new_market_price"],
-            "product_demand": product["demand"],
-        })
+        # bake these into state
+        new_state = dict(state.copy())
+        new_state["seller_emotion"] = seller_emotion
+        new_state["seller_discount"] = seller_discount
 
-        prompt_text = self.prompt.format(**flat_state)
+        prompt_text = self.prompt.format(**new_state)
 
         # Build messages
         messages = [
@@ -48,7 +69,7 @@ class SellerAgent(Agent):
         if not isinstance(parsed, dict):
             raise TypeError("LLM output must be a dict")
 
-        if "action" not in parsed or "message" not in parsed:
+        if "action" not in parsed or "message" not in parsed or "price" not in parsed:
             raise ValueError(f"Malformed LLM output: {parsed}")
 
-        return parsed["action"], parsed["message"]
+        return parsed, seller_choices

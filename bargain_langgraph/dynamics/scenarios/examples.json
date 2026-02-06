@@ -1,0 +1,28 @@
+{
+    "laptop001":  {
+        "name": "Lenovo laptop",
+        "description": "15-inch laptop with Intel i5, 16GB RAM, 1TB HDD",
+        "category": "electronics",
+        "used": 3,
+        "condition": "slight external wear and tear",
+        "avg_new_price": 800.0,
+        "avg_similar_price": 450.0,
+        "demand": 6,
+        "supply": 2,
+        "buyer_cost": 550.0,
+        "seller_cost": 400.0
+    },
+  "laptop002":   {
+        "name": "Macbook air",
+        "description": "13 inch, lightweight with M1 chip, 1 TB SSD ran",
+        "category": "electronics",
+        "used": 1,
+        "condition": "excellent",
+        "avg_new_price": 1200.0,
+        "avg_similar_price": 1120.0,
+        "demand": 7,
+        "supply": 8,
+        "buyer_value": 1150.0,
+        "seller_cost": 800.0
+  }
+}

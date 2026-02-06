@@ -1,0 +1,14 @@
+{
+  "Ravi": {
+    "personality": "Calm, analytical, polite, novice negotiator",
+    "background": "Graduate student on a tight budget",
+    "emotion": "neutral",
+    "discount": 0.5
+  },
+  "Leah": {
+    "personality": "Firm but friendly, expert in negotiation",
+    "background": "Software engineer selling old laptop",
+    "emotion": "anticipation",
+    "discount": 0.5
+  }
+}
