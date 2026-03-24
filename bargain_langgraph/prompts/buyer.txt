@@ -172,3 +172,9 @@ Examples of natural language message:
 - Well, I am not too sure. I found a few laptops on facebook marketplace at lower price. Can you tell me what makes your product better that justifies the price you are asking?
 - We have been stuck at the same place. Nope, sorry, but I am out. Hope you get a buyer who agrees to this ridiculous price!
 
+buyer target
+buyer cost
+seller target = listing price
+seller cost
+
+seller cost (?) < buyer target = 7  <  listing price = seller target = 10

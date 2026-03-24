@@ -1,0 +1,491 @@
+id,product_name,buyer_cost,seller_cost,buyer_target,seller_target,buyer_emotion,seller_emotion,success,turns,savings,reward
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,anger,anger,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,anger,disgust,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,anger,fear,True,5,0.6999999999999998,0.26825700533607844
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,anger,happy,True,6,0.6833333333333332,0.24476798265227365
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,anger,sad,True,5,0.6333333333333334,0.24270871911359485
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,anger,surprise,True,5,0.6999999999999998,0.26825700533607844
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,anger,neutral,True,5,0.6999999999999998,0.26825700533607844
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,disgust,anger,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,disgust,disgust,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,disgust,fear,True,5,0.6999999999999998,0.26825700533607844
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,disgust,happy,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,disgust,sad,True,5,0.6333333333333334,0.24270871911359485
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,disgust,surprise,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,disgust,neutral,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,fear,anger,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,fear,disgust,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,fear,fear,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,fear,happy,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,fear,sad,True,4,0.5833333333333334,0.24445154078123638
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,fear,surprise,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,fear,neutral,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,happy,anger,True,5,0.4166666666666667,0.15967678889052292
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,happy,disgust,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,happy,fear,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,happy,happy,True,4,0.5666666666666664,0.2374672110446295
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,happy,sad,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,happy,surprise,True,4,0.5666666666666664,0.2374672110446295
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,happy,neutral,True,4,0.5666666666666664,0.2374672110446295
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,sad,anger,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,sad,disgust,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,sad,fear,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,sad,happy,True,5,0.6166666666666666,0.23632164755797389
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,sad,sad,True,4,0.5833333333333334,0.24445154078123638
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,sad,surprise,True,5,0.6666666666666666,0.2554828622248366
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,sad,neutral,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,surprise,anger,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,surprise,disgust,True,6,0.5899999999999999,0.2113362581924509
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,surprise,fear,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,surprise,happy,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,surprise,sad,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,surprise,surprise,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,surprise,neutral,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,neutral,anger,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,neutral,disgust,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,neutral,fear,True,6,0.6166666666666666,0.22088817946668599
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,neutral,happy,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,neutral,sad,True,5,0.6000000000000002,0.22993457600235306
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,neutral,surprise,True,5,0.4166666666666667,0.15967678889052292
+0,Verizon Car Charger with Dual Output Micro USB and LED Light,10,7,7,10,neutral,neutral,True,5,0.6000000000000002,0.22993457600235306
+1,Long board custom bilt from the board up,200,119,120,200,anger,anger,True,6,0.5925925925925926,0.21226491720522378
+1,Long board custom bilt from the board up,200,119,120,200,anger,disgust,True,6,0.5802469135802469,0.20784273143011497
+1,Long board custom bilt from the board up,200,119,120,200,anger,fear,True,5,0.6172839506172839,0.23655820576373762
+1,Long board custom bilt from the board up,200,119,120,200,anger,happy,True,6,0.5925925925925926,0.21226491720522378
+1,Long board custom bilt from the board up,200,119,120,200,anger,sad,True,5,0.6172839506172839,0.23655820576373762
+1,Long board custom bilt from the board up,200,119,120,200,anger,surprise,True,6,0.5802469135802469,0.20784273143011497
+1,Long board custom bilt from the board up,200,119,120,200,anger,neutral,True,6,0.5925925925925926,0.21226491720522378
+1,Long board custom bilt from the board up,200,119,120,200,disgust,anger,True,7,0.4567901234567901,0.15505908203047955
+1,Long board custom bilt from the board up,200,119,120,200,disgust,disgust,True,6,0.5555555555555556,0.1989983598798973
+1,Long board custom bilt from the board up,200,119,120,200,disgust,fear,True,6,0.5925925925925926,0.21226491720522378
+1,Long board custom bilt from the board up,200,119,120,200,disgust,happy,True,6,0.5925925925925926,0.21226491720522378
+1,Long board custom bilt from the board up,200,119,120,200,disgust,sad,True,7,0.5802469135802469,0.19696694203871729
+1,Long board custom bilt from the board up,200,119,120,200,disgust,surprise,True,6,0.5925925925925926,0.21226491720522378
+1,Long board custom bilt from the board up,200,119,120,200,disgust,neutral,True,6,0.5925925925925926,0.21226491720522378
+1,Long board custom bilt from the board up,200,119,120,200,fear,anger,True,6,0.4567901234567901,0.16362087367902667
+1,Long board custom bilt from the board up,200,119,120,200,fear,disgust,True,6,0.5308641975308642,0.19015398832967964
+1,Long board custom bilt from the board up,200,119,120,200,fear,fear,True,6,0.5308641975308642,0.19015398832967964
+1,Long board custom bilt from the board up,200,119,120,200,fear,happy,True,6,0.5308641975308642,0.19015398832967964
+1,Long board custom bilt from the board up,200,119,120,200,fear,sad,True,6,0.5308641975308642,0.19015398832967964
+1,Long board custom bilt from the board up,200,119,120,200,fear,surprise,True,6,0.4691358024691358,0.1680430594541355
+1,Long board custom bilt from the board up,200,119,120,200,fear,neutral,True,6,0.5308641975308642,0.19015398832967964
+1,Long board custom bilt from the board up,200,119,120,200,happy,anger,True,5,0.4691358024691358,0.1797842363804406
+1,Long board custom bilt from the board up,200,119,120,200,happy,disgust,True,6,0.4444444444444444,0.15919868790391783
+1,Long board custom bilt from the board up,200,119,120,200,happy,fear,True,6,0.5185185185185185,0.1857318025545708
+1,Long board custom bilt from the board up,200,119,120,200,happy,happy,True,6,0.5185185185185185,0.1857318025545708
+1,Long board custom bilt from the board up,200,119,120,200,happy,sad,True,6,0.5308641975308642,0.19015398832967964
+1,Long board custom bilt from the board up,200,119,120,200,happy,surprise,True,6,0.5061728395061729,0.181309616779462
+1,Long board custom bilt from the board up,200,119,120,200,happy,neutral,True,6,0.5185185185185185,0.1857318025545708
+1,Long board custom bilt from the board up,200,119,120,200,sad,anger,True,6,0.5185185185185185,0.1857318025545708
+1,Long board custom bilt from the board up,200,119,120,200,sad,disgust,True,6,0.5185185185185185,0.1857318025545708
+1,Long board custom bilt from the board up,200,119,120,200,sad,fear,True,6,0.5432098765432098,0.19457617410478847
+1,Long board custom bilt from the board up,200,119,120,200,sad,happy,True,5,0.5555555555555556,0.21290238518736387
+1,Long board custom bilt from the board up,200,119,120,200,sad,sad,True,6,0.5432098765432098,0.19457617410478847
+1,Long board custom bilt from the board up,200,119,120,200,sad,surprise,True,6,0.5925925925925926,0.21226491720522378
+1,Long board custom bilt from the board up,200,119,120,200,sad,neutral,True,6,0.5925925925925926,0.21226491720522378
+1,Long board custom bilt from the board up,200,119,120,200,surprise,anger,True,7,0.5802469135802469,0.19696694203871729
+1,Long board custom bilt from the board up,200,119,120,200,surprise,disgust,True,7,0.5802469135802469,0.19696694203871729
+1,Long board custom bilt from the board up,200,119,120,200,surprise,fear,True,6,0.5802469135802469,0.20784273143011497
+1,Long board custom bilt from the board up,200,119,120,200,surprise,happy,True,6,0.5061728395061729,0.181309616779462
+1,Long board custom bilt from the board up,200,119,120,200,surprise,sad,True,6,0.5185185185185185,0.1857318025545708
+1,Long board custom bilt from the board up,200,119,120,200,surprise,surprise,True,6,0.4444444444444444,0.15919868790391783
+1,Long board custom bilt from the board up,200,119,120,200,surprise,neutral,True,6,0.5802469135802469,0.20784273143011497
+1,Long board custom bilt from the board up,200,119,120,200,neutral,anger,True,5,0.43209876543209874,0.16559074403461635
+1,Long board custom bilt from the board up,200,119,120,200,neutral,disgust,True,6,0.5802469135802469,0.20784273143011497
+1,Long board custom bilt from the board up,200,119,120,200,neutral,fear,True,6,0.5432098765432098,0.19457617410478847
+1,Long board custom bilt from the board up,200,119,120,200,neutral,happy,True,6,0.4691358024691358,0.1680430594541355
+1,Long board custom bilt from the board up,200,119,120,200,neutral,sad,True,6,0.5185185185185185,0.1857318025545708
+1,Long board custom bilt from the board up,200,119,120,200,neutral,surprise,True,5,0.49382716049382713,0.1892465646109901
+1,Long board custom bilt from the board up,200,119,120,200,neutral,neutral,True,6,0.5185185185185185,0.1857318025545708
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,anger,anger,True,8,0.5484114977307111,0.17808797157147932
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,anger,disgust,True,7,0.40468986384266264,0.13737345790143582
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,anger,fear,True,9,0.5181543116490166,0.1620637834833357
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,anger,happy,True,8,0.5597579425113465,0.18177255029364786
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,anger,sad,True,7,0.43116490166414523,0.1463605065491933
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,anger,surprise,True,9,0.546142208774584,0.17081759368608523
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,anger,neutral,True,8,0.5370650529500757,0.1744033928493108
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,disgust,anger,True,9,0.5559757942511346,0.17389325673029452
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,disgust,disgust,True,9,0.5559757942511346,0.17389325673029452
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,disgust,fear,True,8,0.5597579425113465,0.18177255029364786
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,disgust,happy,True,8,0.5408472012102874,0.1756315857567003
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,disgust,sad,True,8,0.5484114977307111,0.17808797157147932
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,disgust,surprise,True,9,0.5446293494704992,0.17034441475620687
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,disgust,neutral,True,9,0.5181543116490166,0.1620637834833357
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,fear,anger,True,8,0.46520423600605143,0.15106772760891005
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,fear,disgust,True,8,0.46520423600605143,0.15106772760891005
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,fear,fear,True,9,0.4803328290468986,0.1502343102363769
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,fear,happy,True,9,0.4689863842662632,0.14668546826228926
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,fear,sad,True,8,0.5068078668683812,0.16457784959019467
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,fear,surprise,True,8,0.4009077155824508,0.1301884481832883
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,fear,neutral,True,8,0.49924357034795763,0.16212146377541567
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,happy,anger,True,8,0.48411497730711045,0.15720869214585761
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,happy,disgust,True,8,0.48411497730711045,0.15720869214585761
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,happy,fear,True,9,0.5068078668683812,0.15851494150924805
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,happy,happy,True,7,0.397125567322239,0.13480572971636226
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,happy,sad,True,9,0.43116490166414523,0.13485599501533044
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,happy,surprise,True,8,0.3630862329803328,0.1179065191093932
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,happy,neutral,True,9,0.4689863842662632,0.14668546826228926
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,sad,anger,True,7,0.510590015128593,0.17332165249246576
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,sad,disgust,True,9,0.5052950075642966,0.15804176257936975
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,sad,fear,True,8,0.5408472012102874,0.1756315857567003
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,sad,happy,True,8,0.42738275340393345,0.13878579853501494
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,sad,sad,True,8,0.4689863842662632,0.15229592051629956
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,sad,surprise,True,10,0.43116490166414523,0.1305537600162972
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,sad,neutral,True,9,0.46520423600605143,0.1455025209375934
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,surprise,anger,True,8,0.43872919818456885,0.14247037725718345
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,surprise,disgust,True,8,0.5030257186081695,0.16334965668280518
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,surprise,fear,True,9,0.5559757942511346,0.17389325673029452
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,surprise,happy,True,9,0.46520423600605143,0.1455025209375934
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,surprise,sad,True,8,0.5408472012102874,0.1756315857567003
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,surprise,surprise,True,9,0.44251134644478063,0.1384048369894181
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,surprise,neutral,True,8,0.5408472012102874,0.1756315857567003
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,neutral,anger,True,7,0.3744326777609682,0.12710254516114156
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,neutral,disgust,True,7,0.3895612708018154,0.13223800153128867
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,neutral,fear,True,7,0.3895612708018154,0.13223800153128867
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,neutral,happy,True,7,0.40468986384266264,0.13737345790143582
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,neutral,sad,True,8,0.39334341906202724,0.1277320623685093
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,neutral,surprise,True,7,0.3895612708018154,0.13223800153128867
+2,A 4 bedroom single family house for rent in central Fremont,3200,1878,1920,3200,neutral,neutral,True,8,0.43116490166414523,0.14001399144240442
+3,Sectional Couch,585,408,444,585,anger,anger,True,6,0.5084745762711864,0.18213409209346532
+3,Sectional Couch,585,408,444,585,anger,disgust,True,6,0.480225988700565,0.17201553142160614
+3,Sectional Couch,585,408,444,585,anger,fear,True,6,0.5480225988700564,0.19630007703406815
+3,Sectional Couch,585,408,444,585,anger,happy,True,6,0.536723163841808,0.19225265276532452
+3,Sectional Couch,585,408,444,585,anger,sad,True,6,0.3954802259887006,0.1416598494060286
+3,Sectional Couch,585,408,444,585,anger,surprise,True,6,0.3954802259887006,0.1416598494060286
+3,Sectional Couch,585,408,444,585,anger,neutral,True,6,0.4689265536723164,0.16796810715286248
+3,Sectional Couch,585,408,444,585,disgust,anger,True,6,0.5084745762711864,0.18213409209346532
+3,Sectional Couch,585,408,444,585,disgust,disgust,True,7,0.5254237288135594,0.17835701098421172
+3,Sectional Couch,585,408,444,585,disgust,fear,True,7,0.5649717514124294,0.19178173224108788
+3,Sectional Couch,585,408,444,585,disgust,happy,True,6,0.536723163841808,0.19225265276532452
+3,Sectional Couch,585,408,444,585,disgust,sad,True,7,0.559322033898305,0.18986391491867696
+3,Sectional Couch,585,408,444,585,disgust,surprise,True,7,0.5536723163841808,0.18794609759626613
+3,Sectional Couch,585,408,444,585,disgust,neutral,True,7,0.5254237288135594,0.17835701098421172
+3,Sectional Couch,585,408,444,585,fear,anger,True,7,0.3559322033898305,0.12082249131188535
+3,Sectional Couch,585,408,444,585,fear,disgust,True,5,0.3954802259887006,0.15155763013337767
+3,Sectional Couch,585,408,444,585,fear,fear,True,5,0.4406779661016949,0.16887850214862082
+3,Sectional Couch,585,408,444,585,fear,happy,True,6,0.3502824858757062,0.12547015233105388
+3,Sectional Couch,585,408,444,585,fear,sad,True,6,0.3954802259887006,0.1416598494060286
+3,Sectional Couch,585,408,444,585,fear,surprise,True,7,0.3559322033898305,0.12082249131188535
+3,Sectional Couch,585,408,444,585,fear,neutral,True,7,0.4406779661016949,0.14958975114804854
+3,Sectional Couch,585,408,444,585,happy,anger,True,6,0.3502824858757062,0.12547015233105388
+3,Sectional Couch,585,408,444,585,happy,disgust,True,7,0.3898305084745763,0.13232939524635062
+3,Sectional Couch,585,408,444,585,happy,fear,True,6,0.3672316384180791,0.1315412887341694
+3,Sectional Couch,585,408,444,585,happy,happy,True,6,0.4124293785310734,0.1477309858091441
+3,Sectional Couch,585,408,444,585,happy,sad,True,7,0.4406779661016949,0.14958975114804854
+3,Sectional Couch,585,408,444,585,happy,surprise,True,6,0.4406779661016949,0.15784954648100327
+3,Sectional Couch,585,408,444,585,happy,neutral,True,6,0.4406779661016949,0.15784954648100327
+3,Sectional Couch,585,408,444,585,sad,anger,True,6,0.5254237288135594,0.18820522849658086
+3,Sectional Couch,585,408,444,585,sad,disgust,True,6,0.5536723163841808,0.19832378916844
+3,Sectional Couch,585,408,444,585,sad,fear,True,7,0.576271186440678,0.19561736688590964
+3,Sectional Couch,585,408,444,585,sad,happy,True,8,0.576271186440678,0.18713496542828412
+3,Sectional Couch,585,408,444,585,sad,sad,True,6,0.5254237288135594,0.18820522849658086
+3,Sectional Couch,585,408,444,585,sad,surprise,True,7,0.5536723163841808,0.18794609759626613
+3,Sectional Couch,585,408,444,585,sad,neutral,True,6,0.5536723163841808,0.19832378916844
+3,Sectional Couch,585,408,444,585,surprise,anger,True,6,0.3672316384180791,0.1315412887341694
+3,Sectional Couch,585,408,444,585,surprise,disgust,True,6,0.3559322033898305,0.12749386446542574
+3,Sectional Couch,585,408,444,585,surprise,fear,True,6,0.5649717514124294,0.2023712134371837
+3,Sectional Couch,585,408,444,585,surprise,happy,True,7,0.3559322033898305,0.12082249131188535
+3,Sectional Couch,585,408,444,585,surprise,sad,True,6,0.5536723163841808,0.19832378916844
+3,Sectional Couch,585,408,444,585,surprise,surprise,True,7,0.5254237288135594,0.17835701098421172
+3,Sectional Couch,585,408,444,585,surprise,neutral,True,7,0.3559322033898305,0.12082249131188535
+3,Sectional Couch,585,408,444,585,neutral,anger,True,6,0.4689265536723164,0.16796810715286248
+3,Sectional Couch,585,408,444,585,neutral,disgust,True,7,0.5028248587570622,0.1706857416945682
+3,Sectional Couch,585,408,444,585,neutral,fear,True,6,0.5084745762711864,0.18213409209346532
+3,Sectional Couch,585,408,444,585,neutral,happy,True,7,0.5254237288135594,0.17835701098421172
+3,Sectional Couch,585,408,444,585,neutral,sad,True,6,0.5254237288135594,0.18820522849658086
+3,Sectional Couch,585,408,444,585,neutral,surprise,True,6,0.5536723163841808,0.19832378916844
+3,Sectional Couch,585,408,444,585,neutral,neutral,True,6,0.4915254237288136,0.17606295569034983
+4,Beautiful Cherry Hutch,1000,499,600,1000,anger,anger,True,9,0.4590818363273453,0.143587610198415
+4,Beautiful Cherry Hutch,1000,499,600,1000,anger,disgust,True,8,0.499001996007984,0.16204301632424506
+4,Beautiful Cherry Hutch,1000,499,600,1000,anger,fear,True,8,0.47904191616766467,0.15556129567127527
+4,Beautiful Cherry Hutch,1000,499,600,1000,anger,happy,True,8,0.47904191616766467,0.15556129567127527
+4,Beautiful Cherry Hutch,1000,499,600,1000,anger,sad,True,7,0.5189620758483033,0.17616357919630465
+4,Beautiful Cherry Hutch,1000,499,600,1000,anger,surprise,True,7,0.5189620758483033,0.17616357919630465
+4,Beautiful Cherry Hutch,1000,499,600,1000,anger,neutral,True,8,0.5189620758483033,0.16852473697721485
+4,Beautiful Cherry Hutch,1000,499,600,1000,disgust,anger,True,8,0.47904191616766467,0.15556129567127527
+4,Beautiful Cherry Hutch,1000,499,600,1000,disgust,disgust,True,8,0.499001996007984,0.16204301632424506
+4,Beautiful Cherry Hutch,1000,499,600,1000,disgust,fear,True,7,0.499001996007984,0.16938805691952372
+4,Beautiful Cherry Hutch,1000,499,600,1000,disgust,happy,True,8,0.47904191616766467,0.15556129567127527
+4,Beautiful Cherry Hutch,1000,499,600,1000,disgust,sad,True,7,0.5189620758483033,0.17616357919630465
+4,Beautiful Cherry Hutch,1000,499,600,1000,disgust,surprise,True,8,0.499001996007984,0.16204301632424506
+4,Beautiful Cherry Hutch,1000,499,600,1000,disgust,neutral,True,7,0.41916167664670656,0.1422859678123999
+4,Beautiful Cherry Hutch,1000,499,600,1000,fear,anger,True,8,0.469061876247505,0.15232043534479037
+4,Beautiful Cherry Hutch,1000,499,600,1000,fear,disgust,True,7,0.4590818363273453,0.1558370123659618
+4,Beautiful Cherry Hutch,1000,499,600,1000,fear,fear,True,7,0.5389221556886228,0.18293910147308562
+4,Beautiful Cherry Hutch,1000,499,600,1000,fear,happy,True,8,0.499001996007984,0.16204301632424506
+4,Beautiful Cherry Hutch,1000,499,600,1000,fear,sad,True,7,0.47904191616766467,0.16261253464274278
+4,Beautiful Cherry Hutch,1000,499,600,1000,fear,surprise,True,8,0.43912175648702595,0.14259785436533567
+4,Beautiful Cherry Hutch,1000,499,600,1000,fear,neutral,True,8,0.5189620758483033,0.16852473697721485
+4,Beautiful Cherry Hutch,1000,499,600,1000,happy,anger,True,9,0.4091816367265469,0.12798026126380468
+4,Beautiful Cherry Hutch,1000,499,600,1000,happy,disgust,True,7,0.4291417165668663,0.1456737289507904
+4,Beautiful Cherry Hutch,1000,499,600,1000,happy,fear,True,7,0.47904191616766467,0.16261253464274278
+4,Beautiful Cherry Hutch,1000,499,600,1000,happy,happy,True,7,0.41916167664670656,0.1422859678123999
+4,Beautiful Cherry Hutch,1000,499,600,1000,happy,sad,True,7,0.469061876247505,0.1592247735043523
+4,Beautiful Cherry Hutch,1000,499,600,1000,happy,surprise,True,8,0.41916167664670656,0.13611613371236586
+4,Beautiful Cherry Hutch,1000,499,600,1000,happy,neutral,True,7,0.4590818363273453,0.1558370123659618
+4,Beautiful Cherry Hutch,1000,499,600,1000,sad,anger,True,9,0.4491017964071856,0.14046614041149294
+4,Beautiful Cherry Hutch,1000,499,600,1000,sad,disgust,True,7,0.41916167664670656,0.1422859678123999
+4,Beautiful Cherry Hutch,1000,499,600,1000,sad,fear,True,7,0.469061876247505,0.1592247735043523
+4,Beautiful Cherry Hutch,1000,499,600,1000,sad,happy,True,9,0.48303393213572854,0.15107913768702796
+4,Beautiful Cherry Hutch,1000,499,600,1000,sad,sad,True,7,0.4291417165668663,0.1456737289507904
+4,Beautiful Cherry Hutch,1000,499,600,1000,sad,surprise,True,7,0.4590818363273453,0.1558370123659618
+4,Beautiful Cherry Hutch,1000,499,600,1000,sad,neutral,True,8,0.4431137724550898,0.14389419849592963
+4,Beautiful Cherry Hutch,1000,499,600,1000,surprise,anger,True,7,0.43912175648702595,0.14906149008918088
+4,Beautiful Cherry Hutch,1000,499,600,1000,surprise,disgust,True,7,0.41916167664670656,0.1422859678123999
+4,Beautiful Cherry Hutch,1000,499,600,1000,surprise,fear,True,7,0.469061876247505,0.1592247735043523
+4,Beautiful Cherry Hutch,1000,499,600,1000,surprise,happy,True,8,0.4590818363273453,0.14907957501830546
+4,Beautiful Cherry Hutch,1000,499,600,1000,surprise,sad,True,7,0.469061876247505,0.1592247735043523
+4,Beautiful Cherry Hutch,1000,499,600,1000,surprise,surprise,True,7,0.4590818363273453,0.1558370123659618
+4,Beautiful Cherry Hutch,1000,499,600,1000,surprise,neutral,True,8,0.43912175648702595,0.14259785436533567
+4,Beautiful Cherry Hutch,1000,499,600,1000,neutral,anger,True,6,0.41916167664670656,0.15014247511896442
+4,Beautiful Cherry Hutch,1000,499,600,1000,neutral,disgust,True,7,0.4590818363273453,0.1558370123659618
+4,Beautiful Cherry Hutch,1000,499,600,1000,neutral,fear,True,7,0.5189620758483033,0.17616357919630465
+4,Beautiful Cherry Hutch,1000,499,600,1000,neutral,happy,True,8,0.469061876247505,0.15232043534479037
+4,Beautiful Cherry Hutch,1000,499,600,1000,neutral,sad,True,7,0.43912175648702595,0.14906149008918088
+4,Beautiful Cherry Hutch,1000,499,600,1000,neutral,surprise,True,8,0.4311377245508982,0.14000516610414773
+4,Beautiful Cherry Hutch,1000,499,600,1000,neutral,neutral,True,7,0.4291417165668663,0.1456737289507904
+5,Office Client Waiting Room CHAIRS,18,10,10,18,anger,anger,True,7,0.4375,0.14851097890419243
+5,Office Client Waiting Room CHAIRS,18,10,10,18,anger,disgust,True,6,0.42500000000000004,0.15223374530812145
+5,Office Client Waiting Room CHAIRS,18,10,10,18,anger,fear,True,5,0.46875,0.17963638750183827
+5,Office Client Waiting Room CHAIRS,18,10,10,18,anger,happy,True,7,0.4624999999999999,0.15699732055586052
+5,Office Client Waiting Room CHAIRS,18,10,10,18,anger,sad,True,5,0.53125,0.2035879058354167
+5,Office Client Waiting Room CHAIRS,18,10,10,18,anger,surprise,True,6,0.42500000000000004,0.15223374530812145
+5,Office Client Waiting Room CHAIRS,18,10,10,18,anger,neutral,True,5,0.46875,0.17963638750183827
+5,Office Client Waiting Room CHAIRS,18,10,10,18,disgust,anger,True,6,0.5125,0.18357598698920524
+5,Office Client Waiting Room CHAIRS,18,10,10,18,disgust,disgust,True,7,0.4437500000000001,0.15063256431710947
+5,Office Client Waiting Room CHAIRS,18,10,10,18,disgust,fear,True,7,0.48124999999999996,0.16336207679461165
+5,Office Client Waiting Room CHAIRS,18,10,10,18,disgust,happy,True,6,0.42500000000000004,0.15223374530812145
+5,Office Client Waiting Room CHAIRS,18,10,10,18,disgust,sad,True,6,0.4624999999999999,0.16566613460001448
+5,Office Client Waiting Room CHAIRS,18,10,10,18,disgust,surprise,True,5,0.4375,0.16766062833504905
+5,Office Client Waiting Room CHAIRS,18,10,10,18,disgust,neutral,True,6,0.42500000000000004,0.15223374530812145
+5,Office Client Waiting Room CHAIRS,18,10,10,18,fear,anger,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,fear,disgust,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,fear,fear,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,fear,happy,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,fear,sad,True,5,0.3999999999999999,0.15328971733490196
+5,Office Client Waiting Room CHAIRS,18,10,10,18,fear,surprise,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,fear,neutral,True,5,0.3999999999999999,0.15328971733490196
+5,Office Client Waiting Room CHAIRS,18,10,10,18,happy,anger,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,happy,disgust,True,5,0.3374999999999999,0.1293381990013235
+5,Office Client Waiting Room CHAIRS,18,10,10,18,happy,fear,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,happy,happy,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,happy,sad,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,happy,surprise,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,happy,neutral,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,sad,anger,True,4,0.375,0.15714741907365193
+5,Office Client Waiting Room CHAIRS,18,10,10,18,sad,disgust,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,sad,fear,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,sad,happy,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,sad,sad,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,sad,surprise,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,sad,neutral,True,5,0.3999999999999999,0.15328971733490196
+5,Office Client Waiting Room CHAIRS,18,10,10,18,surprise,anger,True,6,0.4125000000000001,0.1477562822108238
+5,Office Client Waiting Room CHAIRS,18,10,10,18,surprise,disgust,True,6,0.38749999999999996,0.13880135601622834
+5,Office Client Waiting Room CHAIRS,18,10,10,18,surprise,fear,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,surprise,happy,True,7,0.4375,0.14851097890419243
+5,Office Client Waiting Room CHAIRS,18,10,10,18,surprise,sad,True,5,0.46875,0.17963638750183827
+5,Office Client Waiting Room CHAIRS,18,10,10,18,surprise,surprise,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,surprise,neutral,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,neutral,anger,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,neutral,disgust,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,neutral,fear,True,5,0.3999999999999999,0.15328971733490196
+5,Office Client Waiting Room CHAIRS,18,10,10,18,neutral,happy,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,neutral,sad,True,6,0.39375000000000004,0.14104008756487724
+5,Office Client Waiting Room CHAIRS,18,10,10,18,neutral,surprise,True,5,0.38749999999999996,0.14849941366818628
+5,Office Client Waiting Room CHAIRS,18,10,10,18,neutral,neutral,True,5,0.38749999999999996,0.14849941366818628
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,anger,anger,True,8,0.5211674150096216,0.16924088603588971
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,anger,disgust,True,9,0.5331943553559975,0.16676787709427357
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,anger,fear,True,8,0.5732841565105837,0.18616497463947868
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,anger,happy,True,8,0.5532392559332906,0.17965570979194445
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,anger,sad,True,8,0.5532392559332906,0.17965570979194445
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,anger,surprise,True,9,0.505131494547787,0.15799062040510128
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,anger,neutral,True,10,0.5588518280949326,0.16921648113789878
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,disgust,anger,True,9,0.5291853752405388,0.16551398328153466
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,disgust,disgust,True,8,0.4971135343168698,0.16142976821884863
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,disgust,fear,True,9,0.5644644002565747,0.17654824883363698
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,disgust,happy,True,8,0.5612572161642079,0.18225941573095816
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,disgust,sad,True,8,0.5532392559332906,0.17965570979194445
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,disgust,surprise,True,8,0.5131494547787043,0.16663718009687603
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,disgust,neutral,True,9,0.5516356638871072,0.17253578863287253
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,fear,anger,True,9,0.5652661962796665,0.17679902759618477
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,fear,disgust,True,9,0.5291853752405388,0.16551398328153466
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,fear,fear,True,9,0.6382296343810134,0.1996198949880327
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,fear,happy,True,10,0.5893200769724182,0.1784420568670812
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,fear,sad,True,8,0.6093649775497113,0.19788165136504024
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,fear,surprise,True,8,0.5612572161642079,0.18225941573095816
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,fear,neutral,True,9,0.5732841565105837,0.17930681522166256
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,happy,anger,True,8,0.48909557408595256,0.15882606227983495
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,happy,disgust,True,8,0.4850865939704939,0.1575242093103281
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,happy,fear,True,8,0.5492302758178319,0.1783538568224376
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,happy,happy,True,8,0.47706863373957664,0.1549205033713144
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,happy,sad,True,9,0.5291853752405388,0.16551398328153466
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,happy,surprise,True,8,0.47706863373957664,0.1549205033713144
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,happy,neutral,True,7,0.48909557408595256,0.16602528568048636
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,sad,anger,True,8,0.5131494547787043,0.16663718009687603
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,sad,disgust,True,9,0.4939063502245029,0.15447971772943236
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,sad,fear,True,8,0.5011225144323285,0.1627316211883555
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,sad,happy,True,9,0.6414368184733804,0.20062301003822386
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,sad,sad,True,10,0.5893200769724182,0.1784420568670812
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,sad,surprise,True,9,0.6013470173187941,0.18808407191083487
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,sad,neutral,False,10,0.0,0.0
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,surprise,anger,True,9,0.49310455420141114,0.15422893896688458
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,surprise,disgust,True,9,0.4746632456703015,0.14846102742828565
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,surprise,fear,True,7,0.5171584348941629,0.1755513266621536
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,surprise,happy,True,9,0.5652661962796665,0.17679902759618477
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,surprise,sad,False,10,0.0,0.0
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,surprise,surprise,True,9,0.47787042976266836,0.14946414247847675
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,surprise,neutral,True,8,0.5211674150096216,0.16924088603588971
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,neutral,anger,True,8,0.440987812700449,0.14320382664575282
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,neutral,disgust,True,8,0.49310455420141114,0.16012791524934178
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,neutral,fear,True,8,0.5099422706863374,0.16559569772127053
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,neutral,happy,True,9,0.49310455420141114,0.15422893896688458
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,neutral,sad,True,8,0.5171584348941629,0.16793903306638286
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,neutral,surprise,True,8,0.5099422706863374,0.16559569772127053
+6,2006 Toyota 4Runner 4WD - Only 106k Miles - Clean Title,14500,8264,8700,14500,neutral,neutral,True,9,0.505131494547787,0.15799062040510128
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,anger,anger,True,6,0.8152173913043478,0.2920084628672406
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,anger,disgust,True,5,0.6793478260869565,0.2603425905823743
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,anger,fear,True,5,0.6902173913043478,0.2645080720316923
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,anger,happy,True,5,0.6521739130434783,0.24992888695907933
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,anger,sad,True,5,0.8967391304347826,0.3436522195687341
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,anger,surprise,True,5,0.6521739130434783,0.24992888695907933
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,anger,neutral,True,5,0.8858695652173914,0.3394867381194161
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,disgust,anger,True,5,0.8152173913043478,0.31241110869884914
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,disgust,disgust,True,5,0.8152173913043478,0.31241110869884914
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,disgust,fear,True,6,0.8804347826086957,0.31536913989661985
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,disgust,happy,True,6,0.9782608695652174,0.3504101554406887
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,disgust,sad,True,6,0.842391304347826,0.30174207829614863
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,disgust,surprise,True,5,0.7608695652173914,0.29158370145225926
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,disgust,neutral,True,6,0.842391304347826,0.30174207829614863
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,fear,anger,True,6,0.8260869565217391,0.2959019090388038
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,fear,disgust,True,4,0.842391304347826,0.35301231820892826
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,fear,fear,True,4,0.842391304347826,0.35301231820892826
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,fear,happy,True,5,0.7336956521739131,0.2811699978289643
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,fear,sad,True,5,0.8967391304347826,0.3436522195687341
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,fear,surprise,True,4,0.842391304347826,0.35301231820892826
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,fear,neutral,True,5,0.6793478260869565,0.2603425905823743
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,happy,anger,True,6,0.5271739130434783,0.1888321393208156
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,happy,disgust,True,5,0.5978260869565217,0.2291014797124894
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,happy,fear,True,4,0.6793478260869565,0.284687353394297
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,happy,happy,True,5,0.5978260869565217,0.2291014797124894
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,happy,sad,True,4,0.6793478260869565,0.284687353394297
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,happy,surprise,True,5,0.5978260869565217,0.2291014797124894
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,happy,neutral,True,4,0.625,0.26191236512275323
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,sad,anger,True,5,0.6793478260869565,0.2603425905823743
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,sad,disgust,True,5,0.6793478260869565,0.2603425905823743
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,sad,fear,True,5,0.6902173913043478,0.2645080720316923
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,sad,happy,True,5,0.6902173913043478,0.2645080720316923
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,sad,sad,True,4,0.6793478260869565,0.284687353394297
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,sad,surprise,True,5,0.6902173913043478,0.2645080720316923
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,sad,neutral,True,4,0.842391304347826,0.35301231820892826
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,surprise,anger,True,5,0.7880434782608695,0.30199740507555417
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,surprise,disgust,True,6,0.8152173913043478,0.2920084628672406
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,surprise,fear,True,4,0.842391304347826,0.35301231820892826
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,surprise,happy,True,4,0.842391304347826,0.35301231820892826
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,surprise,sad,True,5,0.8967391304347826,0.3436522195687341
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,surprise,surprise,True,5,0.6358695652173914,0.24368066478510236
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,surprise,neutral,True,6,0.8260869565217391,0.2959019090388038
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,neutral,anger,True,5,0.5978260869565217,0.2291014797124894
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,neutral,disgust,True,6,0.6358695652173914,0.2277666010364477
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,neutral,fear,True,4,0.6793478260869565,0.284687353394297
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,neutral,happy,True,5,0.625,0.23951518333578437
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,neutral,sad,True,4,0.6793478260869565,0.284687353394297
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,neutral,surprise,True,5,0.6793478260869565,0.2603425905823743
+7,Beautiful Renovated Studio with Balcony by Lake Merritt,1895,1711,1743,1895,neutral,neutral,True,5,0.625,0.23951518333578437
+8,2007 Mazda cx-9,8800,6377,6688,8800,anger,anger,True,7,0.6231943871234007,0.21154561938124453
+8,2007 Mazda cx-9,8800,6377,6688,8800,anger,disgust,True,8,0.5943045810978126,0.19299102550055858
+8,2007 Mazda cx-9,8800,6377,6688,8800,anger,fear,True,7,0.6768468840280644,0.22975815614916625
+8,2007 Mazda cx-9,8800,6377,6688,8800,anger,happy,True,7,0.6190672719768882,0.21014465501448135
+8,2007 Mazda cx-9,8800,6377,6688,8800,anger,sad,True,7,0.6293850598431696,0.21364706593138935
+8,2007 Mazda cx-9,8800,6377,6688,8800,anger,surprise,True,7,0.6293850598431696,0.21364706593138935
+8,2007 Mazda cx-9,8800,6377,6688,8800,anger,neutral,True,8,0.5943045810978126,0.19299102550055858
+8,2007 Mazda cx-9,8800,6377,6688,8800,disgust,anger,True,8,0.5447791993396616,0.1769084400421787
+8,2007 Mazda cx-9,8800,6377,6688,8800,disgust,disgust,True,7,0.5674783326454808,0.1926326004299412
+8,2007 Mazda cx-9,8800,6377,6688,8800,disgust,fear,True,6,0.680973999174577,0.24392287612187166
+8,2007 Mazda cx-9,8800,6377,6688,8800,disgust,happy,True,8,0.6087494841106067,0.19768177959258607
+8,2007 Mazda cx-9,8800,6377,6688,8800,disgust,sad,True,8,0.6273215022699133,0.2037127491394785
+8,2007 Mazda cx-9,8800,6377,6688,8800,disgust,surprise,True,7,0.6087494841106067,0.2066422440975733
+8,2007 Mazda cx-9,8800,6377,6688,8800,disgust,neutral,True,7,0.5984316962443252,0.2031398331806653
+8,2007 Mazda cx-9,8800,6377,6688,8800,fear,anger,True,7,0.5881139083780438,0.19963742226375727
+8,2007 Mazda cx-9,8800,6377,6688,8800,fear,disgust,True,7,0.5674783326454808,0.1926326004299412
+8,2007 Mazda cx-9,8800,6377,6688,8800,fear,fear,True,7,0.6727197688815518,0.22835719178240307
+8,2007 Mazda cx-9,8800,6377,6688,8800,fear,happy,True,8,0.6335121749896823,0.205723072321776
+8,2007 Mazda cx-9,8800,6377,6688,8800,fear,sad,True,7,0.6087494841106067,0.2066422440975733
+8,2007 Mazda cx-9,8800,6377,6688,8800,fear,surprise,True,7,0.5984316962443252,0.2031398331806653
+8,2007 Mazda cx-9,8800,6377,6688,8800,fear,neutral,True,6,0.5984316962443252,0.21435646689497811
+8,2007 Mazda cx-9,8800,6377,6688,8800,happy,anger,True,6,0.38175815105241434,0.13674464267438258
+8,2007 Mazda cx-9,8800,6377,6688,8800,happy,disgust,True,7,0.4044572843582336,0.13729450794279446
+8,2007 Mazda cx-9,8800,6377,6688,8800,happy,fear,True,7,0.5674783326454808,0.1926326004299412
+8,2007 Mazda cx-9,8800,6377,6688,8800,happy,happy,True,7,0.5674783326454808,0.1926326004299412
+8,2007 Mazda cx-9,8800,6377,6688,8800,happy,sad,True,6,0.46223689640940985,0.1655718916706038
+8,2007 Mazda cx-9,8800,6377,6688,8800,happy,surprise,True,8,0.5674783326454808,0.18427962504393613
+8,2007 Mazda cx-9,8800,6377,6688,8800,happy,neutral,True,7,0.5674783326454808,0.1926326004299412
+8,2007 Mazda cx-9,8800,6377,6688,8800,sad,anger,True,6,0.5365249690466364,0.19218165997480796
+8,2007 Mazda cx-9,8800,6377,6688,8800,sad,disgust,True,7,0.6293850598431696,0.21364706593138935
+8,2007 Mazda cx-9,8800,6377,6688,8800,sad,fear,True,8,0.6066859265373504,0.19701167186515356
+8,2007 Mazda cx-9,8800,6377,6688,8800,sad,happy,True,7,0.6087494841106067,0.2066422440975733
+8,2007 Mazda cx-9,8800,6377,6688,8800,sad,sad,True,7,0.7119273627734214,0.24166635326665356
+8,2007 Mazda cx-9,8800,6377,6688,8800,sad,surprise,True,7,0.6025588113908378,0.2045407975474285
+8,2007 Mazda cx-9,8800,6377,6688,8800,sad,neutral,True,7,0.5881139083780438,0.19963742226375727
+8,2007 Mazda cx-9,8800,6377,6688,8800,surprise,anger,True,7,0.5447791993396616,0.18492729641274358
+8,2007 Mazda cx-9,8800,6377,6688,8800,surprise,disgust,True,8,0.5571605447791993,0.18092908640677366
+8,2007 Mazda cx-9,8800,6377,6688,8800,surprise,fear,True,6,0.6500206355757325,0.23283547266178656
+8,2007 Mazda cx-9,8800,6377,6688,8800,surprise,happy,True,7,0.5674783326454808,0.1926326004299412
+8,2007 Mazda cx-9,8800,6377,6688,8800,surprise,sad,True,8,0.5901774659513,0.1916508100456936
+8,2007 Mazda cx-9,8800,6377,6688,8800,surprise,surprise,True,7,0.5674783326454808,0.1926326004299412
+8,2007 Mazda cx-9,8800,6377,6688,8800,surprise,neutral,True,7,0.6025588113908378,0.2045407975474285
+8,2007 Mazda cx-9,8800,6377,6688,8800,neutral,anger,True,7,0.5984316962443252,0.2031398331806653
+8,2007 Mazda cx-9,8800,6377,6688,8800,neutral,disgust,True,8,0.5489063144861742,0.17824865549704372
+8,2007 Mazda cx-9,8800,6377,6688,8800,neutral,fear,True,8,0.5881139083780438,0.19098070231826111
+8,2007 Mazda cx-9,8800,6377,6688,8800,neutral,happy,True,8,0.5509698720594305,0.1789187632244762
+8,2007 Mazda cx-9,8800,6377,6688,8800,neutral,sad,True,8,0.6293850598431696,0.204382856866911
+8,2007 Mazda cx-9,8800,6377,6688,8800,neutral,surprise,True,7,0.4085843995047462,0.13869547230955767
+8,2007 Mazda cx-9,8800,6377,6688,8800,neutral,neutral,True,7,0.5674783326454808,0.1926326004299412
+9,2016 mercedes benz c300,26800,24440,24656,26800,anger,anger,True,7,0.7309322033898306,0.24811761608690744
+9,2016 mercedes benz c300,26800,24440,24656,26800,anger,disgust,True,6,0.6991525423728814,0.2504343766285148
+9,2016 mercedes benz c300,26800,24440,24656,26800,anger,fear,True,6,0.6991525423728814,0.2504343766285148
+9,2016 mercedes benz c300,26800,24440,24656,26800,anger,happy,True,6,0.7627118644067796,0.273201138140198
+9,2016 mercedes benz c300,26800,24440,24656,26800,anger,sad,True,6,0.7627118644067796,0.273201138140198
+9,2016 mercedes benz c300,26800,24440,24656,26800,anger,surprise,True,6,0.7733050847457628,0.2769955983921452
+9,2016 mercedes benz c300,26800,24440,24656,26800,anger,neutral,True,6,0.7415254237288136,0.2656122176363036
+9,2016 mercedes benz c300,26800,24440,24656,26800,disgust,anger,True,6,0.711864406779661,0.2549877289308515
+9,2016 mercedes benz c300,26800,24440,24656,26800,disgust,disgust,True,7,0.6949152542372882,0.2358915306565381
+9,2016 mercedes benz c300,26800,24440,24656,26800,disgust,fear,True,6,0.7733050847457628,0.2769955983921452
+9,2016 mercedes benz c300,26800,24440,24656,26800,disgust,happy,True,7,0.6991525423728814,0.23732989364834625
+9,2016 mercedes benz c300,26800,24440,24656,26800,disgust,sad,True,6,0.8050847457627118,0.28837897914798677
+9,2016 mercedes benz c300,26800,24440,24656,26800,disgust,surprise,True,7,0.701271186440678,0.23804907514425033
+9,2016 mercedes benz c300,26800,24440,24656,26800,disgust,neutral,True,6,0.7627118644067796,0.273201138140198
+9,2016 mercedes benz c300,26800,24440,24656,26800,fear,anger,True,6,0.7288135593220338,0.26105886533396694
+9,2016 mercedes benz c300,26800,24440,24656,26800,fear,disgust,True,8,0.711864406779661,0.23116672199964508
+9,2016 mercedes benz c300,26800,24440,24656,26800,fear,fear,True,5,0.836864406779661,0.3207067709072367
+9,2016 mercedes benz c300,26800,24440,24656,26800,fear,happy,True,6,0.7415254237288136,0.2656122176363036
+9,2016 mercedes benz c300,26800,24440,24656,26800,fear,sad,True,5,0.7203389830508474,0.2760513977429379
+9,2016 mercedes benz c300,26800,24440,24656,26800,fear,surprise,True,6,0.7288135593220338,0.26105886533396694
+9,2016 mercedes benz c300,26800,24440,24656,26800,fear,neutral,True,6,0.7415254237288136,0.2656122176363036
+9,2016 mercedes benz c300,26800,24440,24656,26800,happy,anger,True,5,0.5508474576271186,0.21109812768577604
+9,2016 mercedes benz c300,26800,24440,24656,26800,happy,disgust,True,6,0.5338983050847458,0.1912407966981386
+9,2016 mercedes benz c300,26800,24440,24656,26800,happy,fear,True,6,0.5826271186440678,0.2086953138570957
+9,2016 mercedes benz c300,26800,24440,24656,26800,happy,happy,True,6,0.6991525423728814,0.2504343766285148
+9,2016 mercedes benz c300,26800,24440,24656,26800,happy,sad,True,7,0.5508474576271186,0.18698718893506067
+9,2016 mercedes benz c300,26800,24440,24656,26800,happy,surprise,True,5,0.5508474576271186,0.21109812768577604
+9,2016 mercedes benz c300,26800,24440,24656,26800,happy,neutral,True,5,0.5296610169491526,0.20297896892863082
+9,2016 mercedes benz c300,26800,24440,24656,26800,sad,anger,True,5,0.635593220338983,0.24357476271435696
+9,2016 mercedes benz c300,26800,24440,24656,26800,sad,disgust,True,5,0.5508474576271186,0.21109812768577604
+9,2016 mercedes benz c300,26800,24440,24656,26800,sad,fear,True,4,0.826271186440678,0.3462570250775382
+9,2016 mercedes benz c300,26800,24440,24656,26800,sad,happy,True,6,0.8050847457627118,0.28837897914798677
+9,2016 mercedes benz c300,26800,24440,24656,26800,sad,sad,True,4,0.826271186440678,0.3462570250775382
+9,2016 mercedes benz c300,26800,24440,24656,26800,sad,surprise,True,6,0.7415254237288136,0.2656122176363036
+9,2016 mercedes benz c300,26800,24440,24656,26800,sad,neutral,True,7,0.7457627118644068,0.253151886558236
+9,2016 mercedes benz c300,26800,24440,24656,26800,surprise,anger,True,7,0.7033898305084746,0.2387682566401544
+9,2016 mercedes benz c300,26800,24440,24656,26800,surprise,disgust,True,6,0.6038135593220338,0.21628423436099006
+9,2016 mercedes benz c300,26800,24440,24656,26800,surprise,fear,True,7,0.7521186440677966,0.2553094310459482
+9,2016 mercedes benz c300,26800,24440,24656,26800,surprise,happy,True,6,0.597457627118644,0.21400755820982176
+9,2016 mercedes benz c300,26800,24440,24656,26800,surprise,sad,True,5,0.7627118644067796,0.29228971525722836
+9,2016 mercedes benz c300,26800,24440,24656,26800,surprise,surprise,True,7,0.6949152542372882,0.2358915306565381
+9,2016 mercedes benz c300,26800,24440,24656,26800,surprise,neutral,True,8,0.75,0.24355065353534033
+9,2016 mercedes benz c300,26800,24440,24656,26800,neutral,anger,True,5,0.4872881355932203,0.18674065141434035
+9,2016 mercedes benz c300,26800,24440,24656,26800,neutral,disgust,True,8,0.5508474576271186,0.17887901107115392
+9,2016 mercedes benz c300,26800,24440,24656,26800,neutral,fear,True,6,0.5826271186440678,0.2086953138570957
+9,2016 mercedes benz c300,26800,24440,24656,26800,neutral,happy,True,6,0.5084745762711864,0.18213409209346532
+9,2016 mercedes benz c300,26800,24440,24656,26800,neutral,sad,True,5,0.5720338983050848,0.2192172864429213
+9,2016 mercedes benz c300,26800,24440,24656,26800,neutral,surprise,True,7,0.5529661016949152,0.18770637043096475
+9,2016 mercedes benz c300,26800,24440,24656,26800,neutral,neutral,True,5,0.5296610169491526,0.20297896892863082

@@ -1,0 +1,21 @@
+Rules of bargaining:
+. B/S can "accept", "propose", "walk away", "stay", "ask"
+. If propose, then have to choose an offer
+. For S: offer must be greater than buyer offer, but lower than own last offer
+. For B: offer must be lower than seller offer, but higher than own last offer
+
+
+Rules of session:
+. fixed maximum number of rounds
+. buyer always initiates contact "Hey is this product available?"
+. seller responds "Hi. Yes, are you interested? The listing price is ..."
+. buyer makes offer for example: "Yes. I can pay $10 for this, does that work for you?"
+. negotiation continues for at most 10 rounds (ignore the first deterministic round)
+
+View session from buyer's perspective - buyer is trying to get the price down
+Think: Buyer is agent, seller is human
+
+
+Settings:
+. seller is fixed with an emotion, while buyer fixed at another emotion
+. seller is neutral initially and then after a certain round, gets angry/impatient, buyer is baseline
